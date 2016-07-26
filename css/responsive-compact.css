@@ -1,0 +1,432 @@
+@media screen and (max-width: 1920px) {
+	.researchbgimg {
+    	min-height: 564px;
+	}
+}
+@media screen and (max-width: 1600px) {
+	.researchbgimg {
+    	min-height: 469px;
+	}
+}
+@media screen and (max-width: 1429px) {
+	.researchbgimg {
+    	min-height: 419px;
+	}
+}
+
+@media screen and (max-width: 1280px) {
+	.researchbgimg {
+    	min-height: 375px;
+	}
+}
+
+
+@media screen and (max-width: 1199px) {
+	
+}
+
+@media screen and (max-width: 1080px) {
+	.vc_single_image-img{
+		
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.cfe-reports {
+    	margin-top: -37px;
+	}
+	.single-wp_research #single-post{
+		padding-top: 105.5px;
+	}
+}
+
+
+@media screen and (max-width: 979px) {
+	#main-nav{ display: none;}
+	#mobile-nav{display: block;}
+	.menu-button{display: block;}
+	.menu-button.open .hamburger-text{ color: #fff;}
+	.menu-button.open .hamburger-container .hamburger{background-color: #fff;}
+	.vertical-border{
+		right: 0px;
+	}
+	.owl-carousel-twitter .owl-item .item{
+		height: 100%;
+	}
+	.logo2.span2{
+		margin-left: 2%;
+	}
+}
+
+@media screen and (max-width: 949px) {
+	.st_twitter_custom{
+		padding: 0 10px;	
+	}
+}
+@media screen and (max-width: 879px) {
+	.st_twitter_custom,
+	.st_facebook_custom,
+	.st_linkedin_custom,
+	.st_googleplus_custom{
+		padding: 0 10px;	
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.search-form{
+		max-width: 80%;
+	}
+	#blog-listing,
+	#research-listing{
+		padding: 0!important;
+	}
+	.main-blog-listing{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.wpb_widgetised_column.wpb_content_element{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	/*Home*/
+	
+	#research-row{
+		padding: 50px 0 10px!important;
+	}
+	#cfe-blog-list{
+		padding: 0!important;
+	}
+	
+	#supporters-one{
+		padding: 20px 0 50px!important;
+	}
+	
+	#cfe-blog,
+	#releases-coverage{
+		padding: 50px 0!important;
+	}
+	#supporters-heading{
+		padding: 50px 0 0!important;
+	}
+	.pull-left{
+		padding-left: 0;
+	}
+	.cfe-reports {
+    	margin-top: -75px;
+	}
+	.single-wp_research #single-post{
+		padding-top: 72.5px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	body{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.main-blog-listing,
+	.media-content,
+	.page-entry-content,
+	.single .entry-content,
+	.single .sidebar,
+	.sidebar{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.single.single-wp_research .vc_btn3-container.vc_btn3-left{
+		clear: both;
+	}
+	.single.single-wp_research .wpb_single_image.vc_align_left{
+		padding: 2em 0;
+	}
+	
+	.team-url{
+		padding: 0 20px 20px;
+	}
+	#single-team-content .allcontents{
+		padding: 2em 2em 2em 0;
+	}
+	
+	.page-id-14 .wp_coverage.type-wp_coverage, .page-id-14 .wp_releases.type-wp_releases{
+		border-right: 0;
+	}
+	.coverage-section .pull-right, 
+	.press-section .pull-right{
+		float: left;
+	}
+	.coverage-section{
+		padding: 0 0 20px;
+	}
+	.press-section{
+		padding: 20px 0	
+	}
+	.footer-inner{
+		text-align: center;
+	}
+	.vertical-border{
+		height: 1px;
+		width:50%;
+		position: relative;
+		right: 0;
+		top:0;
+		margin: 0 auto;
+	}
+	.social-media{
+		padding: 0 0 1em;
+	}
+	
+	.social-media li{
+		display: inline;
+		float: none;
+	}
+	.owl-carousel-twitter .owl-item .item{
+		padding: 2.5em 20px 5em;
+	}
+	.coverage-title{
+		padding: 4em 0 1em;
+	}
+	.releases-date, 
+	.coverage-date{
+		padding: 1em 0 0;
+	}
+	.owl-carousel-twitter .owl-item .item .caption{
+		padding: 10px 0;
+	}
+	
+	.blog-listing h2{
+		
+		padding: 20px 0 10px;
+	}
+	.wpb_single_image .vc_single_image-wrapper{
+		margin: 0 0 10px;
+	}
+	.wpb_single_image.vc_align_left{
+		float: left;
+		margin-bottom: 0;
+		text-align: left;
+		width: 50%;
+	}
+	
+	.menu-button{
+		padding: 10px 0;
+	}
+	.row-fluid.empty-space-block{
+		padding: 0 3em 2em 0;
+	}
+	.vertical-border-blog{
+		display: none;
+	}
+	.input-append {
+    	width: 92%;
+	}
+	#appendedInputButton {
+    	width: 100%;
+	}
+	.form-search .input-append .btn,
+	#appendedInputButton {
+		height: 45px;	
+	}
+	#pbd-alp-load-posts{
+		padding: 0 3em 2em 0;
+	}
+	.st_twitter_custom{
+		padding: 0 15px;
+	}
+	.st_facebook_custom,
+	.st_linkedin_custom,
+	.st_googleplus_custom{
+		padding: 0 12px;	
+	}
+	
+	#blog-listing,
+	#research-listing{
+		padding: 0!important;
+	}
+	.wpb_widgetised_column.wpb_content_element{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	.heading-title{
+		padding: 1em;
+	}
+	#about-contents{
+		padding: 0 20px;
+	}
+	
+}
+
+/*iphone 6 plus landscape*/
+@media screen and (max-width: 736px) {
+	.menu-button.open .hamburger-text{ color: #D5106A;}
+	.menu-button.open .hamburger-container .hamburger{background-color: #D5106A;}
+	.mobile-nav-menu{ padding: 20px 20px 10px;}
+	.menu-button{top:-50px;}
+	.cfe-reports {
+    	margin-top: -80px;
+    	margin-bottom: 31px;
+	}
+}
+
+/*Samsung Galaxy s4 Landscape mode */
+@media screen and (max-width: 640px) {
+	.menu-button{
+		top:-50px;
+	}
+}
+
+/*iphone 6 Landscape mode */
+@media screen and (max-width: 667px) {
+	.menu-button{
+		top:-50px;
+	}
+	.mobile-nav-menu{
+		margin-top: 60px;
+	}
+	.cfe-reports {
+    	margin-top: -90px;
+    	margin-bottom: 31px;
+	}
+}
+
+@media screen and (max-width: 559px) {
+	.wpb_single_image .vc_single_image-wrapper{
+		padding: 0 10px 0 0;
+	}
+}
+
+/*Iphone 4 landscape*/
+@media screen and (max-width: 480px) {
+	.cfe-reports {
+    	margin-top: -117px;
+	}
+	.single-wp_research #single-post{
+		padding-top: 0;
+	}
+	.mobile-nav-menu{
+		margin-top: 0;
+	}
+}
+
+
+/*iphone 6 plus portrait*/
+@media screen and (max-width: 414px) {
+	.menu-button.open .hamburger-text{ color: #D5106A;}
+	.menu-button.open .hamburger-container .hamburger{background-color: #D5106A;}
+	.mobile-nav-menu{ padding: 20px 20px 10px; margin-top: 0;}
+	.cfe-reports {
+    	margin-top: -127px;
+	}
+	.single-wp_research #single-post{
+		padding-top: 0;
+	}
+}
+
+/*iphone 6 375 x 627  iphone 6 portrait*/
+@media screen and (max-width: 375px) {
+	#header,
+	#header.shrink{
+		padding: 25px 10px;
+	}
+	.menu-button.open .hamburger-text{ color: #D5106A;}
+	.menu-button.open .hamburger-container .hamburger{background-color: #D5106A;}
+	.mobile-nav-menu{ padding: 20px 20px 10px;}
+	
+	#research-row,
+	#cfe-blog,
+	#supporters-heading{
+		padding: 50px 20px 10px!important;
+	}
+	#research-post{
+		padding: 0 20px!important;
+	}
+	#cfe-blog-list{
+		padding: 20px 20px 50px !important
+	}
+	#twitter-heading{
+		padding: 50px 20px 10px!important;
+	}
+	#supporters-one{
+		padding: 20px 20px 100px!important;
+	}
+	#releases-coverage{
+		padding: 50px 20px 100px!important;
+	}
+	#twitter-card{
+		padding: 0 20px 100px!important;
+	}
+	.heading-title{
+		font-size: 40px;
+	}
+	.bgimg{
+		min-height: 108px;
+	}
+	.owl-carousel-twitter .owl-buttons .owl-prev{
+		left: -30px;
+	}
+	.owl-carousel-twitter .owl-buttons .owl-next{
+		right: -30px;
+	}
+	.cfe-reports {
+    	margin-top: -133px;
+    	margin-bottom: 31px;
+	}
+	.single-wp_research #single-post{
+		padding-top: 12px;
+	}
+
+}
+
+@media screen and (max-width: 366px) {
+	input.mailchimp-email{
+		max-width: 250px;
+		margin: 0 5px 10px 0;
+	}
+}
+
+/*Samsung Galaxy s4 360 x 640 */
+@media screen and (max-width: 360px) {
+	.menu-button.open .hamburger-text{ color: #D5106A;}
+	.menu-button.open .hamburger-container .hamburger{background-color: #D5106A;}
+	.mobile-nav-menu{ padding: 20px 20px 10px;}
+	.menu-button{
+		top:-50px;
+	}
+	.heading-title{
+		font-size: 40px;
+	}
+	
+	.bgimg{
+		min-height: 108px;
+	}
+	.owl-carousel-twitter .owl-buttons .owl-prev{
+		left: -30px;
+	}
+	.owl-carousel-twitter .owl-buttons .owl-next{
+		right: -30px;
+	}
+}
+
+@media screen and (max-width: 359px) {
+	.menu-button{
+		top:0;
+	}
+}
+
+@media screen and (max-width: 343px) {	
+	.see-more-twitter a{
+		padding: 10px;
+	}
+}
+
+/*iphone 4 portrait*/
+@media screen and (max-width: 320px) {	
+	.menu-button{
+		top:-50px;
+	}
+	.mobile-nav-menu{
+		margin-top: 0;
+	}
+}
